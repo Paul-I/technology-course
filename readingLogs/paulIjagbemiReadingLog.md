@@ -11,3 +11,13 @@ Git protects  the files well so there is no way to  change a content without git
 Git dictory is where git save  all the files.
 Git file can be saved in three different way, commit, modified, and staged.
 ####Question
+
+
+##9/11/2015
+###Five minutes Markdown Mastery
+####Summary
+Markdown is a simple formatting language that was created by John Gruber.
+It also use in many other site that we don't even know we using markdown E.G Github.
+So basically markdwon is about formatting
+####Question
+What aire HTML document ?
